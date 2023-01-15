@@ -93,6 +93,7 @@ body {
     height: 42px;
     border-radius: 5px;
     border: none;
+    cursor: pointer;
 }
 
 .results {
