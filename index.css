@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background: #1C1C1C;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    max-width: 1024px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app {
+    width: 550px;
+    height: 729px;
+    background: #F4F4F4;
+    /* margin: auto; */
+}
+
+#header-section{
+    background: #6943FF;
+    color: white;
+    height: 285px;
+    width: 100%;
+}
+
